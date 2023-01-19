@@ -1,16 +1,20 @@
-# ai_radio
+<h1 align="center">Welcome to AI Radio app 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+</p>
 
-A new Flutter project.
+> Our Flutter-based app allows users to easily access and play their favorite radio stations using voice commands. The app uses the power of speech recognition technology to interpret user input and play the corresponding radio station. A user-friendly interface that allows you to easily browse and select radio stations.
 
-## Getting Started
+## Author
 
-This project is a starting point for a Flutter application.
+👤 **Yash Chikhaliya**
 
-A few resources to get you started if this is your first Flutter project:
+* Website: https://github.com/ChikhaliyaYash
+* Github: [@ChikhaliyaYash](https://github.com/ChikhaliyaYash)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Show your support
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
